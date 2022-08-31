@@ -1,5 +1,5 @@
 # kodluyoruzilkrepo
-Bu repo [Kodluyoruz](https://www.kodluyoruz.org) Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
+Bu repo [Kodluyoruz](https://www.kodluyoruz.org) java back-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 
 ![image](https://user-images.githubusercontent.com/109595036/187674870-37520d68-fab1-4444-b7f5-d506adc7f6ea.png)
 
